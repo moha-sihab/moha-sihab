@@ -1,6 +1,5 @@
 #  About Me : 
-#### Hi, I'm Moh Sihabudin<br><br>I'm a passionate Software Engineer with strong experience in **mobile development** and **backend development**. I specialize in building secure and scalable applications using:<br><br>- ⚙️ **.NET & C#** for backend APIs and system integration  <br>- 📱 **Kotlin & Jetpack Compose** for modern Android development  <br><br><br>## 📂 Projects<br>- 🔐 [Biometric Authentication CRAM** — Simulated Challenge-Response login flow using biometric authentication (Android + .NET C# )](https://github.com/moha-sihab/Challenge-Response-Authentication)  <br><br>## 📫 Let's Connect<br>Feel free to explore my repositories or reach out via GitHub Issues or LinkedIn!
-
+#### Hi, I'm Moh Sihabudin<br><br>I'm a passionate Software Engineer with strong experience in **mobile development** and **backend development**. I specialize in building secure and scalable applications using:<br><br>- ⚙️ **.NET & C#** for backend APIs and system integration  <br>- 📱 **Kotlin & Jetpack Compose** for modern Android development  <br><br><br> 📂 Projects<br>- 🔐 [Biometric Authentication CRAM — Simulated Challenge-Response login flow using biometric authentication (Android + .NET C# )](https://github.com/moha-sihab/Challenge-Response-Authentication)  <br><br> 
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moh-sihabudin/) 
